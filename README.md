@@ -2,10 +2,7 @@
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
-![preview](preview.jpg)
-
-[See it in action](http://jamigibbs.github.io/phantom/).
-
+[See it in action](http://raduceaca1234.github.io/phantom/).
 
 ## Credit
 
